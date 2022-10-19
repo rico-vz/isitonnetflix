@@ -52,3 +52,15 @@ Start the server
   php artisan serve
 ```
 
+
+## Roadmap
+
+- Infopage per movie displaying things such as available regions, description of the movie, imdb rating, etc
+
+- Search by specific region
+
+- Code refactor/cleanup
+
+- Cache results
+
+- Actually host isitonnetflix
